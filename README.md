@@ -1,2 +1,2 @@
-# ClassProjectWhatsToEat_Python
-College Class Project written in Python
+# WhatsToEat_Python
+Project written in Python
